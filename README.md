@@ -1,6 +1,6 @@
 # [WWDC 2022 Swift Student Challenge Submissions](https://wwdc.github.io/2022)
 
-List of student submissions for the [WWDC 2022 Swift Student Challenge](https://developer.apple.com/wwdc 2022/swift-student-challenge/).
+List of student submissions for the [WWDC 2022 Swift Student Challenge](https://developer.apple.com/wwdc 2022/swift-student-challenge/).2022
 
 To add your own project below, just [edit](https://github.com/wwdc/2022/edit/main/README.md) this file and submit a pull request! Please read the **PLEASE READ** section before submitting.2022 
 
