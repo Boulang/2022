@@ -4,7 +4,7 @@ List of student submissions for the [WWDC 2022 Swift Student Challenge](https://
 
 To add your own project below, just [edit](https://github.com/wwdc/2022/edit/main/README.md) this file and submit a pull request! Please read the **PLEASE READ** section before submitting.2022 
 
-<!-- PLEASE READ! -->
+<!-- PLEASE READ! -->2022
 <!-- Insert your name below in alphabetical order by first name. -->
 <!-- Please only submit the playgrounds that you submitted for WWDC 2022. -->
 <!-- Watch out for columns, you must have 6 pipes or else the gh-pages won't like it. -->
