@@ -43,7 +43,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2022/edit/mai
 |[Haotian Zheng](https://haotianzheng.com/)|[GitHub](https://github.com/JustinFincher/WWDC2022-SwiftUINodeEditor)|[YouTube](https://youtu.be/B6D3y49WOEQ)|SwiftUI, Combine, SpriteKit|Accepted|
 |[Henri Bredt](https://henribredt.de)|[GitHub](https://github.com/henribredt/Typography-WWDC22)|[YouTube](https://www.youtube.com/watch?v=AiK6CGgM71w)|SwiftUI|Accepted|
 |[Hugo Queinnec](https://github.com/hugoqnc)|[GitHub](https://github.com/hugoqnc/Split)||SwiftUI, Vision|Accepted|
-|[Hyunjun Shin](https://github.com/greenthings)|[GitHub](https://github.com/greenthings/GreenWorld)||SwiftUI, SpriteKit|Accepted|
+|[Hyunjun Shin](https://github.com/greenthings)|[GitHub](https://github.com/greenthings/GreenWorld)||SwiftUI, SpriteKit|Accepted|2022
 |[Ishaan Bedi](https://github.com/ishaanbedi)|[GitHub](https://github.com/ishaanbedi/Chipify-WWDC22)|[YouTube](https://youtu.be/bWf6gNBQSB8)|SwiftUI|Accepted|
 |[Jakub Florek](https://github.com/MAJKFL)|[GitHub](https://github.com/MAJKFL/Audioqe-WWDC22)|[YouTube](https://youtu.be/TnayjRjrYp8)|SwiftUI, AVFoundation|Accepted|
 |[Jia Chen](https://github.com/jiachenyee)|[GitHub](https://github.com/jiachenyee/WWDC22-SSC)||SwiftUI, UIKit, SceneKit, ARKit|Submitted|
@@ -63,7 +63,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2022/edit/mai
 |[Matthew Christopher Albert](https://github.com/MatthewCAlbert)|[GitHub](https://github.com/MatthewCAlbert/wwdc2022-submission)||SwiftUI, AVKit|Accepted|
 |Max Tsai|[GitHub](https://github.com/ming-zhe-02/The-Fake-News)|[YouTube](https://www.youtube.com/watch?v=scV6d8G3EZw)|SwiftUI|Submitted|
 |[Minkyeong Ko](https://github.com/Minkyeong-Ko)|[GitHub](https://github.com/Minkyeong-Ko/Freeboard)|[YouTube](https://youtu.be/XXkhVd-ziIw)|SwiftUI|Accepted|
-|Nathaniel Fargo|[Github](https://github.com/theParadox42/Waves)| |SwiftUI, Canvas, Math/Physics|Submitted|
+|Nathaniel Fargo|[Github](https://github.com/theParadox42/Waves)| |SwiftUI, Canvas, Math/Physics|Submitted|2022
 |[Omar Abusharar](https://github.com/omartheturtle/)|[GitHub](https://github.com/omartheturtle/SwiftStudentChallenge2022)|Later?|SwiftUI, UIKit, SpriteKit, ARQuickLook|Rejected|
 |[Oscar Fridh](https://www.linkedin.com/in/oscar-fridh-03279b125/)|[GitHub](https://github.com/OscarFridh/WWDC22)|[YouTube](https://www.youtube.com/watch?v=Yvlz3F5ZXkg)|ARKit, RealityKit, SwiftUI, UIKit|Accepted|
 |[Patricia Sampaio](https://github.com/patysiq)|[GitHub](https://github.com/patysiq/SagittariusA_WWDC2022)||AVFoundation, SceneKit , SwiftUI, UIKit|Accepted|
