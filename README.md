@@ -1,6 +1,6 @@
 # [WWDC 2022 Swift Student Challenge Submissions](https://wwdc.github.io/2022)
 
-List of student submissions for the [WWDC 2022 Swift Student Challenge](https://developer.apple.com/wwdc22/swift-student-challenge/).
+List of student submissions for the [WWDC 2022 Swift Student Challenge](https://developer.apple.com/wwdc 2022/swift-student-challenge/).
 
 To add your own project below, just [edit](https://github.com/wwdc/2022/edit/main/README.md) this file and submit a pull request! Please read the **PLEASE READ** section before submitting.2022 
 
@@ -80,6 +80,6 @@ To add your own project below, just [edit](https://github.com/wwdc/2022/edit/mai
 |[Vincent Spitale](https://github.com/vincentspitale)|[GitHub](https://github.com/vincentspitale/SSC2022)|[YouTube](https://youtu.be/vQM8yTbGguQ)|SwiftUI, PencilKit, VisionKit, MetalKit|Accepted|
 |[Vitor Grechi Kuninari](https://www.wwdcscholars.com/s/32CD09B0-46A3-4D89-A10F-AF9984766715)|[GitHub](https://github.com/VitorGK/WWDC22-Swift-Student-Challenge)||SwiftUI, SpriteKit|Accepted|
 |[Xikai Liu](https://github.com/iamGeoWat)|[GitHub](https://github.com/iamGeoWat/WWDC22)|[Bilibili](https://www.bilibili.com/video/BV1W34y1p7M3/)|SwiftUI|Accepted|
-|Yauheni Stsefankou|[GitHub](https://github.com/stefjen07/WWDC22-NeuralNetworks)||SwiftUI, SpriteKit, CoreGraphics|Accepted|
-|[Yiwei Wang](https://github.com/wangyiwei2015)|[GitHub](https://github.com/wangyiwei2015/ColorCodeChallenge)| |SwiftUI|Accepted|
+|Yauheni Stsefankou|[GitHub](https:github.com/stefjen07/WWDC22-NeuralNetworks)||SwiftUI, SpriteKit, CoreGraphics|Accepted|
+|[Yiwei Wang](https://github.com/wangyiwei2015)|[GitHub](https://github.com/wangyiwei2015/ColorCodeChallenge)| |SwiftUI|Accepted|2022 
 |[Yunho Oh](https://github.com/Helloyunho)|[GitHub](https://github.com/Helloyunho/about_computer_bits)|[YouTube](https://youtu.be/V8Zhc-dDbVI)|SwiftUI|Rejected|date time fixe actually 2022 coupe du monde 2022 informatique 2022.radio 2022 date time fixe 2022 
