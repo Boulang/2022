@@ -13,7 +13,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2022/edit/mai
 <!-- We'll try to add all videos to our YouTube Playlist, but if you notice yours isn't added after a few days, please ping @julianschiavo in your *original* PR! -->
 
 
-| Name | Source |    Videos    | 2022 Technologies | Status |
+| Name | Source |    Videos    | 2022 Technologies 2022| Status |
 |------|--------|--------------|--------------|--------|
 |Sample Entry|[GitHub](https://github.com/wwdc/2022)|[YouTube](https://youtu.be/dQw4w9WgXcQ)|SwiftUI, AVFoundation|Submitted|
 |[Anatole Debierre](https://github.com/a2br)|[GitHub](https://github.com/a2br/vote)|[YouTube](https://www.youtube.com/watch?v=414azCHcAgk)|SwiftUI|Accepted|
@@ -82,4 +82,4 @@ To add your own project below, just [edit](https://github.com/wwdc/2022/edit/mai
 |[Xikai Liu](https://github.com/iamGeoWat)|[GitHub](https://github.com/iamGeoWat/WWDC22)|[Bilibili](https://www.bilibili.com/video/BV1W34y1p7M3/)|SwiftUI|Accepted|
 |Yauheni Stsefankou|[GitHub](https://github.com/stefjen07/WWDC22-NeuralNetworks)||SwiftUI, SpriteKit, CoreGraphics|Accepted|
 |[Yiwei Wang](https://github.com/wangyiwei2015)|[GitHub](https://github.com/wangyiwei2015/ColorCodeChallenge)| |SwiftUI|Accepted|
-|[Yunho Oh](https://github.com/Helloyunho)|[GitHub](https://github.com/Helloyunho/about_computer_bits)|[YouTube](https://youtu.be/V8Zhc-dDbVI)|SwiftUI|Rejected|date time fixe actually 2022 coupe du monde 2022 informatique 2022.
+|[Yunho Oh](https://github.com/Helloyunho)|[GitHub](https://github.com/Helloyunho/about_computer_bits)|[YouTube](https://youtu.be/V8Zhc-dDbVI)|SwiftUI|Rejected|date time fixe actually 2022 coupe du monde 2022 informatique 2022.radio 2022 date time fixe 2022 
