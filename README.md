@@ -2,7 +2,7 @@
 
 List of student submissions for the [WWDC 2022 Swift Student Challenge](https://developer.apple.com/wwdc22/swift-student-challenge/).
 
-To add your own project below, just [edit](https://github.com/wwdc/2022/edit/main/README.md) this file and submit a pull request! Please read the **PLEASE READ** section before submitting.
+To add your own project below, just [edit](https://github.com/wwdc/2022/edit/main/README.md) this file and submit a pull request! Please read the **PLEASE READ** section before submitting.2022 
 
 <!-- PLEASE READ! -->
 <!-- Insert your name below in alphabetical order by first name. -->
@@ -13,7 +13,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2022/edit/mai
 <!-- We'll try to add all videos to our YouTube Playlist, but if you notice yours isn't added after a few days, please ping @julianschiavo in your *original* PR! -->
 
 
-| Name | Source |    Videos    | Technologies | Status |
+| Name | Source |    Videos    | 2022 Technologies | Status |
 |------|--------|--------------|--------------|--------|
 |Sample Entry|[GitHub](https://github.com/wwdc/2022)|[YouTube](https://youtu.be/dQw4w9WgXcQ)|SwiftUI, AVFoundation|Submitted|
 |[Anatole Debierre](https://github.com/a2br)|[GitHub](https://github.com/a2br/vote)|[YouTube](https://www.youtube.com/watch?v=414azCHcAgk)|SwiftUI|Accepted|
